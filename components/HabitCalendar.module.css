@@ -1,0 +1,34 @@
+.completedDay {
+  background:lightcoral !important;/* Green */
+  color: beige !important;
+    border-radius: 50%;
+    align-items: 'center';
+}
+
+.calendarWrapper {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  align-items: center;
+}
+
+.calendarHeader {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.button {
+    background-color: #f07070;
+    border: none;
+    color: #fdfdcd;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 100px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    margin-left: 10px;
+}

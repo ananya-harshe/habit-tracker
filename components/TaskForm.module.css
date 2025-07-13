@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&display=swap');
+
+.formStyle {
+  margin: 25px;
+  text-align: center;
+}
+
+.inputBox {
+  margin: 10px;
+}
+
+.inputStyle {
+  margin: 25px;
+  padding: 12px;
+  text-align: center;
+  border-radius: 100px;
+  font-family: 'Edu NSW ACT Foundation', cursive;
+  border: 2px solid #f07167;
+  outline: none;
+  background-color: #fdfdcd;
+  font-size: 18px;
+  margin-top: 0px;
+}
+
+.text {
+  font-size: 21px;
+  font-family: 'Edu NSW ACT Foundation', cursive;
+  display: block;
+  padding: 15px;
+  margin-top: -15px
+}
+
+.button {
+    background-color: #f07070;
+    border: none;
+    color: #fdfdcd;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 100px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    margin-left: 550px;
+}
+
+.dropdown {
+  margin: 18px auto;
+  padding: 6px;
+  text-align: center;
+  border-radius: 50px;
+  font-family: 'Edu NSW ACT Foundation', cursive;
+  border: 2px solid #f07167;
+  outline: none;
+  background-color: #fdfdcd;
+  font-size: 18px;
+  display: block;
+  width: 100px; /* you can adjust as needed */
+}
